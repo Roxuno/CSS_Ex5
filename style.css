@@ -1,0 +1,13 @@
+.flex-container {
+    background-color: burlywood;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.flex-item {
+    background-color: rgb(255, 94, 0);
+    margin: 5px;
+    padding: 50px;
+    height: 70px;
+}
